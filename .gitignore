@@ -1,3 +1,5 @@
 .idea
 target
+*.impl
+.scannerwork
 git-setup.bat
